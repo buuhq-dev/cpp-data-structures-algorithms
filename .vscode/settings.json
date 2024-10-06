@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "*.sw.json": "json",
+        "*.sw.yaml": "yaml",
+        "*.sw.yml": "yaml",
+        "*.dash.json": "json",
+        "*.dash.yaml": "yaml",
+        "*.dash.yml": "yaml",
+        "iostream": "cpp",
+        "__config": "cpp",
+        "__locale": "cpp",
+        "__verbose_abort": "cpp",
+        "cstddef": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "initializer_list": "cpp",
+        "ios": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "streambuf": "cpp"
+    }
+}
